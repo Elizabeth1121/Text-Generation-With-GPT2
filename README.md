@@ -7,8 +7,11 @@ This project was created to explore the integration of AI and text generation mo
 **Key Objectives:**
 
 **Learn and Implement AI:** To gain practical experience with open-source AI tools and models.
+
 **Text Generation:** To understand the mechanics of text generation and how it can be applied in various contexts.
+
 **Hands-On Application:** To challenge myself to incorporate a sophisticated AI model, like GPT-2, into a small-scale application and see it come to life.
+
 **Learned How to Use Virtual Enviorments:** Gained proficiency in using virtual environments to manage project dependencies, ensuring a consistent development environment across different stages of the project.
 
 ## How To Use
